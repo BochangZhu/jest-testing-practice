@@ -1,0 +1,24 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "A collection of unit tests to learn Jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BochangZhu/jest-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BochangZhu/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/BochangZhu/jest-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
